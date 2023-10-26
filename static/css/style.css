@@ -57,9 +57,10 @@ body {
     overflow: hidden;
     position: relative;
     display: inline-block;
-    height: 33vh;
+    height: 36vh;
     width: 100%;
 }
+
 
 .masthead-text {
     background-color: #445261;
