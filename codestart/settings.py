@@ -33,7 +33,7 @@ DEBUG = False
 
 X_FRAME_OPTIONS = "SAMEORIGIN"
 
-ALLOWED_HOSTS = ['mike-dj-blog-70bd5ac33490.herokuapp.com'',
+ALLOWED_HOSTS = ['mike-dj-blog-70bd5ac33490.herokuapp.com',
                  '8000-miguelsanleon-mike-dj-bl-ncdvx8l64n.us2.codeanyapp.com']
 
 
